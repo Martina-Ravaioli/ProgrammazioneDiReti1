@@ -1,4 +1,5 @@
 # ProgrammazioneDiReti1
+Questo progetto simula il protocollo go-back-n usando un soket UDP.
 Per il corretto funzionamento del progetto bisogna prima far partire il file Server.py
 ```bash
 python .\Server.py
